@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-cyril",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "description": "Cyril JavaScript TypeScript Node 规范",
   "keywords": [

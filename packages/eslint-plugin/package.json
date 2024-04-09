@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-cyril",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Cyril自定义eslint插件",
   "scripts": {
     "test": "jest",
