@@ -1,6 +1,6 @@
 {
   "name": "markdownlint-config-cyril",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "index.json",
   "description": "Cyril 文档规范",
   "keywords": [
