@@ -1,3 +1,13 @@
+<!--
+ * @Author: CyrilChi chiyongmail@163.com
+ * @Date: 2024-04-02 18:57:32
+ * @LastEditors: CyrilChi chiyongmail@163.com
+ * @LastEditTime: 2024-04-09 12:23:06
+ * @FilePath: /cyril-lint/docs/npm/commitlint.md
+ * @Description: 
+ * 
+ * Copyright (c) 2024 by ${git_name_email}, All Rights Reserved. 
+-->
 ---
 title: commitlint-config-cyril
 categories:
@@ -5,7 +15,7 @@ categories:
 tags:
   - 工程规范
 author:
-  name: 澄怀
+  name: Cyril
   link: https://github.com/cyril-studio-fe/fe-spec
 ---
 

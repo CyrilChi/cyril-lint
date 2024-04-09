@@ -5,7 +5,7 @@ categories:
 tags:
   - 编码规范
 author:
-  name: 澄怀
+  name: Cyril
   link: https://github.com/cyril-studio-fe/fe-spec
 ---
 
